@@ -1,1 +1,1 @@
-# Welcome to Frontiers Media SA on GitHub!
+## Welcome to Frontiers Media SA on GitHub! 👋
